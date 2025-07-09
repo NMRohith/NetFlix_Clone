@@ -272,6 +272,6 @@ body {
 ![Screenshot 2025-07-09 231217](https://github.com/user-attachments/assets/1de88e21-1af6-4f07-b134-19ff2e7becc3)
 
 ## Live Webpage:
-
+ https://nmrohith.github.io/NetFlix_Clone/
 ## Result:
 A modern, responsive navigation bar using CSS Flexbox, mimicking real-world websites like Netflix. This helps reinforce alignment, spacing, and layout structuring using Flexbox properties is created successfully.
